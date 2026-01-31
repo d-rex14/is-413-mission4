@@ -1,0 +1,15 @@
+/workspace/mission4/bin/Debug/net10.0/mission4
+/workspace/mission4/bin/Debug/net10.0/mission4.deps.json
+/workspace/mission4/bin/Debug/net10.0/mission4.runtimeconfig.json
+/workspace/mission4/bin/Debug/net10.0/mission4.dll
+/workspace/mission4/bin/Debug/net10.0/mission4.pdb
+/workspace/mission4/obj/Debug/net10.0/mission4.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/mission4/obj/Debug/net10.0/mission4.AssemblyInfoInputs.cache
+/workspace/mission4/obj/Debug/net10.0/mission4.AssemblyInfo.cs
+/workspace/mission4/obj/Debug/net10.0/mission4.csproj.CoreCompileInputs.cache
+/workspace/mission4/obj/Debug/net10.0/mission4.sourcelink.json
+/workspace/mission4/obj/Debug/net10.0/mission4.dll
+/workspace/mission4/obj/Debug/net10.0/refint/mission4.dll
+/workspace/mission4/obj/Debug/net10.0/mission4.pdb
+/workspace/mission4/obj/Debug/net10.0/mission4.genruntimeconfig.cache
+/workspace/mission4/obj/Debug/net10.0/ref/mission4.dll
